@@ -9,15 +9,16 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: AFNAN - LBSCEK
+- Member 2: AFNAN - LBSCEK
+- Member 3: ANIRUDHU P - LBSCEK
 
 ### Project Description
-[2-3 lines about what your project does]
+Maze Game with ESP8266 & MPU6050 Tilt Control
+A Wi-Fi–hosted browser-based maze game powered by an ESP8266 and MPU6050 accelerometer. Players tilt the sensor to move a ball through the maze in real time, with two selectable difficulty levels. Uses WebSockets for instant game state updates and serves the interface directly from the ESP8266
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+maze solving
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -25,9 +26,8 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- c
+- 
 - [Tools used]
 
 For Hardware:
